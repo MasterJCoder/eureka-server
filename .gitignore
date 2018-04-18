@@ -25,10 +25,7 @@
 /nbdist/
 /.nb-gradle/
 .gitignore
-build.gradle
 gradle/
 gradlew
 gradlew.bat
 out/
-settings.gradle
-src/test/
